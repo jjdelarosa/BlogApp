@@ -15,4 +15,4 @@ export default {
     NavBar,
   },
 }
-  </script>
+</script>
